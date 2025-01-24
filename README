@@ -1,1 +1,12 @@
-Inizio esercizio: Un viaggio a Londra
+# Inizio esercizio: il mio viaggio a Londra
+## Introduzione
+In questo progetto iniziamo ad utilizzare le basi di HTML dando una struttare alla pagina.
+
+### Prima parte
+Nella prima parte andiamo a inserire delle foto direttamente dal nostro pc dando il comando, al computer, di andare a cercare le immagini in una cartella da noi selezionata.
+
+#### Parte centrale
+La parte centrale, la più ricca di comandi, contiene una serie di informazioni, del viaggio in questione, che inseriamo tramite tabelle e liste.
+
+##### Parte Finale
+Concludiamo il progetto inserendo le ultime due immagini tramite link, quindi in maniera differente da quelle iniziali.
